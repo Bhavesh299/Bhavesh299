@@ -3,11 +3,7 @@
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bhavesh Chavhan</h1>
 
-</br>
-</hr>
-<img align="center" style="margin:auto;" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-
-</br>
+<hr />
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
