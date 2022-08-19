@@ -1,7 +1,15 @@
-![Bhavesh Chavhan ,I'm a passionate Full Stack Developer from India.🧑‍💻]
+
 
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bhavesh Chavhan</h1>
+
+</br>
+</hr>
+
+<h2 align="center">Talking about Personal Stuffs</h2>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+
+</br>
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
