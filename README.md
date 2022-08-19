@@ -17,9 +17,9 @@
 
 <hr />
 
-Thanks for checking out my profile! <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ 
 
-
+<h3>Thanks for checking out my profile! <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 
 
 
