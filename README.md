@@ -1,82 +1,167 @@
-### Hi there 👋 I am Bhavesh
 
-<h2 align="center">Just a Introduction
-</h2>
 
-Hi, I'm Bhavesh Chavhan,A Full Stack Web Developer 🚀 from Jalgaon, India, currently 💻 doing my Full Stack Development from Masai School. I am passionate about technology and want to learn & explore new technologies I'm a #####Masai School Student, [@Masai School](https://in.linkedin.com/school/masai-school/), I love travelling and explore the new places
+![Bhavesh Chavhan ,I'm a passionate Full Stack Developer from India.🧑‍💻](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%27m%20a%20passionate%20Full%20Stack%20Web%20Developer.%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&title=Khushi%20Gupta%20)
 
-</br>
-</hr>
-<h2 align="center">Talking about Personal Stuffs</h2>
-<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!-- <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1> -->
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bhavesh Chavhan</h1>
 
-</br>
+- 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
-- 🔭 I’m currently working on MERN Stack, comfortable with learning and implementing new things.<br>
-- 🌱 I’m currently going more deep into Mern Stack and speacially frontend.<br>
-- 💬 Ask me about MERN Stack, Backend, or Javascript i would love to help.<br>
-- 👯 I’m looking to collaborate and make any tech community
-- 📫 Portfolio - " https://bhavesh-chavhan-portfolio.vercel.app"
+- 👨‍💻 All of my projects are available at [https://github.com/Bhavesh299](https://github.com/Bhavesh299)
 
-<div align="center">
-<p align="center">Let's connect!</p>
+- 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , React.JS , CLI-Bash.**
 
-<!--
-<a href="https://www.instagram.com/vaibhavdarwekar/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a> -->
-  <a href="bhaveshchavan299@gmail.com">
- <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
-  </a>
+- 📫 How to reach me LinkedIn **https://www.linkedin.com/in/bhavesh299/**
 
-<a href="https://www.linkedin.com/in/bhavesh299/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<hr />
 
-<!--
-<a href="https://www.facebook.com/vaibhav.darwekar.50">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+[![Thanks for checking out my profile!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f60e_1f91f-1f3fe&text=Thanks%2520for%2520checking%2520out%2520my%2520profile%21)](https://pimp-my-readme.webapp.io)
 
- -->
-</div>
 
-<h1></h1>
+
+
+
+<h2 align="center" border="0">My Tech Stack <img src="[![JavaScript_HTML_CSS_ReactJS_NodeJS_MongoDB_Redis_AWS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_MongoDB_Redis_AWS_ReactJS_Express_)](https://pimp-my-readme.webapp.io)" width="35"/></h2>
+<br>
+<table align="center">
+
+<tbody>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗛𝗧𝗠𝗟𝟱</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗖𝗦𝗦𝟯</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+
+  
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗥𝗲𝗮𝗰𝘁</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>NodeJS</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>ExpressJS</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+
+</td>
+<td width="25%" align="center">
+
+<span>MongoDB</span><br><br>
+<img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg">
+
+</td>
+
+</tr>
+
+<tr valign="top">
+
+<td width="25%" align="center">
+
+<span>𝗕𝗼𝗼𝘁S𝘁𝗿𝗮𝗽</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗥𝗲𝗱𝘂𝘅</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗚𝗶𝘁Hub</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+
+</td>
+
+<td width="25%" align="center">
+
+<span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br>
+
+<img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+
+</td>
+
+</tr>
+
+</tbody>
+
+</table>
+<hr>
+<h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <p align="center">
-  <h2 align="center">Technology Stack  <img src="https://github.com/Vaman93/Vaman93/blob/main/image/laptop.gif" width="50"></h2>
-<div align="center">
-   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=d1a01f&labelColor=282828">
-   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=d1a01f&labelColor=282828">
-   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express.js&logoColor=d1a01f&labelColor=282828">
-   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828">
-   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-  </br>
-    </br>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
- 
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=whit"/>
-  
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
-  
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-</div>
+  <a href="https://www.linkedin.com/in/bhavesh299/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
 </p>
+<hr />
 
-<h3>Status</h3>
 
-<h5>Contribution graph</h5>
 
-[![Bhavesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bhavesh299&theme=react-dark)](https://github.com/Bhavesh299/github-readme-activity-graph)
 
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavesh299&show_icons=true&theme=radical)
 
-<h5>Languages</h5>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bhavesh299&show_icons=true&locale=en&layout=compact&hide=css" alt="Bhavesh299" /></p>
 
-<h5>Streaks</h5>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhavesh299&" alt="Bhavesh299" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khushi89012&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Bhavesh Chavhan"/></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=khushi89012&show_icons=true&locale=en&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Bhavesh Chavhan" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khushi89012&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="Bhavesh Chavhan" /></p>
+
+<hr />
+
+<h3> Views and Followers </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushi89012&label=Profile%20views&color=0e75b6&style=flat" alt="Bhavesh Chavhan" /> </p>
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+  </p>
