@@ -19,7 +19,7 @@
 
  
 
-<h3>Thanks for checking out my profile![<img style="margin-top: 5px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" />]</h3>
+<h3>Thanks for checking out my profile! <img style="margin:1rem 0rem 0rem 0rem " src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
 <!-- [<img style="margin-right: 30px" src=bar.svg height=30>] -->
 
 
