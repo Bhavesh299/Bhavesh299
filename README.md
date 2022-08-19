@@ -3,7 +3,7 @@
 <h1 align="center"> <img src="https://achintya-portfolio.vercel.app/plane.gif" width="150" ></h1>
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Bhavesh Chavhan</h1>
 
-<hr />
+<!-- <hr /> -->
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
@@ -17,7 +17,7 @@
 
 <hr />
 
-[![Thanks for checking out my profile!]](https://pimp-my-readme.webapp.io)
+Thanks for checking out my profile! <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 
 
