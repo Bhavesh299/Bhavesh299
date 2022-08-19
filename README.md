@@ -5,9 +5,7 @@
 
 </br>
 </hr>
-
-<h2 align="center">Talking about Personal Stuffs</h2>
-<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" style="margin:auto;" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 </br>
 
