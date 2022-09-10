@@ -13,7 +13,7 @@
 
 - 📫 How to reach me LinkedIn **https://www.linkedin.com/in/bhavesh299/**
 
-- 📫 Portfolio - **https://bhavesh-chavhan-portfolio.vercel.app**
+- 📫 Portfolio - **https://bhavesh-chavhan-portfolio-bhavesh299.vercel.app**
 
 <hr />
 
