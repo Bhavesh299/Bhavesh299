@@ -19,12 +19,12 @@
 
  
 
-<h3>Thanks for checking out my profile! <img style="margin-top:20px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
+<h3  >Thanks for checking out my profile! <img style="vertical-align:top; margin:50px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="150"/></h3>
 <!-- [<img style="margin-right: 30px" src=bar.svg height=30>] -->
 
 
 
-<h1 align="center" border="0">My Tech Stack <img src="[![JavaScript_HTML_CSS_ReactJS_NodeJS_MongoDB_Redis_AWS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_MongoDB_Redis_AWS_ReactJS_Express_)](https://pimp-my-readme.webapp.io)" width="35"/></h1>
+<h1 align="center" border="0">My Tech Stack <img src="[![JavaScript_HTML_CSS_ReactJS_NodeJS_MongoDB_Redis_AWS_ReactJS_Express_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_NodeJS_MongoDB_Redis_AWS_ReactJS_Express_)](https://pimp-my-readme.webapp.io)" width="35" /></h1>
 <br>
 <table align="center">
 
@@ -140,7 +140,7 @@
 
 </table>
 <hr>
-<h3>Connect with me :  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h3>
+<h3>Connect with me :  <img style="margin-top:30px" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="150" /></h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavesh299/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
