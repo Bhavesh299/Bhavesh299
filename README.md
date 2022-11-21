@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack and DSA At Masai School**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bhavesh299](https://github.com/Bhavesh299)
+- 👨‍💻 All of my projects are available at **https://github.com/Bhavesh299**
 
 - 💬 Ask me about **Javascript , Data structure , Algorithm , HTML , CSS , Bootstrap , React.JS , CLI-Bash.**
 
